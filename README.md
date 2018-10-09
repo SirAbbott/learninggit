@@ -1,3 +1,4 @@
 # learninggit
 Hi alex, this is my readme
-we are learning git
+we are learning git 
+another change on same line
